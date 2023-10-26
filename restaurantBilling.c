@@ -67,7 +67,7 @@ int main(){
     system("clear");
     float total = 0;
     int invoiceFound = 0;
-    printf("\t============ADV. RESTAURANT============");
+    printf("\t============PALASH RESTAURANT============");
     printf("\n\nPlease select your prefered operation");
     printf("\n\n1.Generate Invoice");
     printf("\n2.Show all Invoices");
