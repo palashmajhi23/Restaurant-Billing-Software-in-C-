@@ -8,4 +8,6 @@ Restaurant Billing Software in C
 •	The project streamlines restaurant operations, ensuring customer satisfaction and smooth billing processes.
 
 •	This C programming software simplifies restaurant management, benefiting both staff and customers.
+![restaurant dishes entry](https://github.com/palashmajhi23/Restaurant-Billing-Software-in-C-/assets/128633751/b3b69dc0-d008-4093-9131-bc5a0afc6d82)
 
+![Restaurant bill generate](https://github.com/palashmajhi23/Restaurant-Billing-Software-in-C-/assets/128633751/77c4dd9e-59e1-4b5e-8f6a-1f44c4ca38f2)
