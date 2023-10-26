@@ -1,7 +1,8 @@
 # Restaurant-Billing-Software-in-C-
 Restaurant Billing Software in C  
+
 •	Developed a C-based restaurant billing software for efficient order management and accurate bill generation.
-<br>
+
 •	Designed a user-friendly interface to handle menu items, calculate bills, and enhance the dining experience.
 
 •	The project streamlines restaurant operations, ensuring customer satisfaction and smooth billing processes.
