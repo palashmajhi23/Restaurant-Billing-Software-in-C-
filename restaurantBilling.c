@@ -17,7 +17,7 @@ struct orders{
 //functions to generate biils
 void generateBillHeader(char name[50],char date[30]){
     printf("\n\n");
-        printf("\t    ADV. Restaurant");
+        printf("\t    Palash Restaurant");
         printf("\n\t   -----------------");
         printf("\nDate:%s",date);
         printf("\nInvoice To: %s",name);
